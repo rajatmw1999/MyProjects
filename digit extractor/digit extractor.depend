@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549532905 source:f:\rajat upadhyay\c++ programs\digit extractor\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+
