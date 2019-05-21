@@ -29,3 +29,7 @@ body{
 .download-button{
   margin: 5% 3% 5% 0;
 }
+.phone-image{
+  width:60%;
+  transform:rotate(25deg);
+}
