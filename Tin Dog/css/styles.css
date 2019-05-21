@@ -33,3 +33,18 @@ body{
   width:60%;
   transform:rotate(25deg);
 }
+
+.feature-box{
+  text-align:center;
+  padding:5%;
+}
+#features{
+  padding:7% 15%;
+}
+.feature-icon{
+  color:#ef8172;
+  margin-bottom:1rem;
+}
+.feature-icon:hover{
+  color:#ff4c68;
+}
