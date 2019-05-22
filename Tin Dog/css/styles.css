@@ -48,3 +48,43 @@ body{
 .feature-icon:hover{
   color:#ff4c68;
 }
+p{
+  color:grey;
+}
+
+#testimonials{
+  background-color:#ef8172;
+  text-align:center;
+  color:#fff;
+  font-family:"Montserrat";
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+h2{
+  font-weight: 900;
+  line-height:1.5;
+  font-size:3rem;
+}
+
+.testimonial-image{
+  width:10%;
+  border-radius:100%;
+  margin:20px;
+}
+
+#press{
+  background-color:#ef8172;
+  text-align:center;
+  padding: 5% 15%;
+}
+
+.press-image{
+  width:15%;
+  margin-bottom:20px;
+  margin-left: 45px;
+  margin-right: 45px;
+}
