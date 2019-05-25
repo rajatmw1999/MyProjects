@@ -88,3 +88,12 @@ h2{
   margin-left: 45px;
   margin-right: 45px;
 }
+
+#pricing{
+  text-align: center;
+  padding:90px;
+}
+
+.pricing-card {
+  padding:3% 2%;
+}
