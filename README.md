@@ -5,4 +5,5 @@ checkout my projects here..
 2. Tic tac toe is a command line game written in c++.
 3. Type writer project helps user to introduce fancy type writer effect in output console.
 
-    console.log("Hi");
+    console.log("Hi");    
+    ```console.log("Hi");```
